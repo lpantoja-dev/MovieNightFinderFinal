@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Movie Night Finder",
+    "slug": "movienightfinderfinal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-notifications"
+    ],
+    "android": {
+      "package": "com.luispantoja.movienightfinderfinal"
+    }
+  }
+}
