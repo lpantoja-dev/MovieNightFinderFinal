@@ -10,7 +10,12 @@
       "expo-notifications"
     ],
     "android": {
-      "package": "com.luispantoja.movienightfinderfinal"
+      "package": "com.luispantoja.movienightfinderfinal",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDdCvqM44N2TCl83iafo9KZRdEjnjZOQgg"
+        }
+      }
     }
   }
 }
